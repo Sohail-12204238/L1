@@ -26,7 +26,7 @@ spring:
     host: smtp.gmail.com
     port: 587
     username: sohail.rcom4@gmail.com
-    password: YOUR_APP_PASSWORD   # move this to env variable
+    password: kewq vvpf xbry aykx
     properties:
       mail:
         smtp:
